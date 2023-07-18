@@ -1,0 +1,12 @@
+# TODO prettier mdx
+*.mdx
+
+# project folders
+**/.git/
+
+# deps
+**/node_modules/
+
+# build files
+**/dist/
+_site/
